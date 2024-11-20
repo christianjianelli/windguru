@@ -1,0 +1,12 @@
+{
+    "name": "Windguru",
+    "start_url": "https://christianjianelli.github.io/windguru/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          }
+    ]
+}
